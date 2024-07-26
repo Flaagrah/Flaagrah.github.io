@@ -21,6 +21,12 @@ const CONFIG = {
             'Created a Chess Engine using Deep Learning and Minimax Algorithm.',
           link: 'https://github.com/Flaagrah/Chess-Engine',
         },
+        {
+          title: 'Machine Learning Notebooks',
+          description:
+            'Machine Learning fundamentals.',
+          link: 'https://github.com/Flaagrah/MachineLearning',
+        },
       ],
     },
   },
